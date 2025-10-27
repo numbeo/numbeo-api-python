@@ -16,7 +16,7 @@ This repository contains a Python example application that demonstrates how to f
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/mladenadamovic/numbeo-api-python.git
+git clone https://github.com/numbeo/numbeo-api-python.git
 cd numbeo-api-python
 ```
 
