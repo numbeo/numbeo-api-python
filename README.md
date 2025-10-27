@@ -2,7 +2,7 @@
 
 Numbeo API Example – Retrieve Cost of Living for a City
 
-This repository contains a Python example application that demonstrates how to fetch and display cost of living data from the [Numbeo API](https://www.numbeo.com/api/) for any city and country.
+This repository contains a Python example application that demonstrates how to fetch and display cost of living data from the [Numbeo API](https://www.numbeo.com/common/api.jsp) for any city and country.
 
 ## Features
 
@@ -83,7 +83,7 @@ Restaurants:
 
 ## API Key
 
-You need a valid Numbeo API key to use this application. Visit [Numbeo API Documentation](https://www.numbeo.com/api/) to obtain your API key.
+You need a valid Numbeo API key to use this application. Visit [Numbeo API Documentation](https://www.numbeo.com/common/api.jsp) to obtain your API key.
 
 ## Requirements
 
